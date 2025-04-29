@@ -1,6 +1,6 @@
-# 🍄 Forum dla Grzybiarzy – Mikroserwisy z Flask, MongoDB i Keycloak
+# 🍄 GrzybNet 🍄 
 
-**Forum dla grzybiarzy** to aplikacja webowa oparta na architekturze mikroserwisowej. Umożliwia użytkownikom dzielenie się informacjami o grzybach, publikowanie postów i komentowanie znalezisk – z pełnym wsparciem autoryzacji za pomocą OAuth 2.0 (Keycloak).
+**GrzybNet** to aplikacja webowa oparta na architekturze mikroserwisowej. Umożliwia użytkownikom dzielenie się informacjami o grzybach, publikowanie postów i komentowanie znalezisk – z pełnym wsparciem autoryzacji za pomocą OAuth 2.0 (Keycloak).
 
 ---
 
