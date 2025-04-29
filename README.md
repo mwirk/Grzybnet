@@ -36,7 +36,7 @@ The application uses **OAuth 2.0** for user authentication via **Keycloak**.
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/forum-grzybiarzy.git grzybnet
+git clone https://github.com/mwirk/grzybnet.git grzybnet
 cd grzybnet
 kubectl apply -f k8s/
 ```
