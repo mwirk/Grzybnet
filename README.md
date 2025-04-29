@@ -4,15 +4,14 @@
 
 ---
 
-## 🧩 Architektura
+## 🛠️ Technologie
 
-Projekt składa się z trzech głównych mikroserwisów:
-
-| Serwis       | Technologia | Opis |
-|--------------|-------------|------|
-| **API**      | Flask       | Główna logika aplikacji – obsługa użytkowników, postów, komentarzy |
-| **Baza Danych** | MongoDB     | Przechowuje dane użytkowników i postów w formacie dokumentowym |
-| **Auth**     | Keycloak    | Służy jako serwer autoryzacji i zarządzania tożsamością (OAuth 2.0 / OpenID Connect) |
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.3-black?logo=flask)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)
+![Keycloak](https://img.shields.io/badge/Keycloak-OAuth2-7c4dff?logo=keycloak)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?logo=kubernetes)
 
 ---
 
