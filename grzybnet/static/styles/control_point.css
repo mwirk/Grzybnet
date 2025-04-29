@@ -1,0 +1,9 @@
+ #endpoints{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    align-items: start;
+    justify-content: start;
+} 
+
+

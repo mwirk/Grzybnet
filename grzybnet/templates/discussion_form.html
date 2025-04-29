@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grzybnet</title>
+    <link rel="stylesheet" href='static/styles/signin.css'>
+</head>
+<body>
+    {% if session['user'] %}
+    <div id="content">
+        <div id="brand">
+            <img id="logo" src="static/images/mushroom.png">
+            <p id="brandName"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
+            </a></div>
+    <p id="title2">Stwórz dyskusję</p>
+    <form id='form-discussion' method="POST", action="/discussion">
+        <input type='text' name="name" placeholder="O co chcesz zapytać?" autocomplete="off" required>
+        <input type="submit" value="Stwórz nową dyskusję">
+        </form>
+    </div>
+    {% else %}
+    
+    <div id="content">
+        <div id="brand">
+        <img id="logo" src="static/images/mushroom.png">
+        <p id="brandName"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
+        </a></div>
+        <p id="title">Logowanie</p>
+
+        {% if error %}
+            <p style="color: red">{{error}}</p>
+        {% endif %}
+        <form method="POST", action="/login">
+        <input type='text' name="username" placeholder="Nazwa użytkownika" required>
+        <input type='password' name="password" placeholder="Hasło" required>
+        <input type="submit" id="sendButton" value="Zaloguj się">
+        </form>
+        <p id="redirect"><a href="{{ url_for('signin') }}">Nie mam jeszcze konta</a></p>
+    </div>
+    {%endif%}
+</body>
+</html>

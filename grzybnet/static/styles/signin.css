@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+input{
+    padding: 0.5em;
+    width: 20em;
+}
+#logo{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 4em;
+}
+#brand{
+    display: flex;
+    align-items: center;
+    margin-left: -1em;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+    align-items: center;
+}
+#brandName{
+    font-size: 2em;
+}
+#sendButton{
+    padding: 0.5em 0.7em 0.5em 0.7em;
+    background-color: #F8FF7C;
+    border: 0.2px solid black;
+    border-radius: 0.4em;
+    width: auto;
+    font-size: 1em;
+
+}
+#sendButton:hover{
+    cursor: pointer;
+}
+#title{
+    margin-top: -0.6em;
+    font-size: 3em;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+}
+#brand:hover{
+    cursor: pointer;
+}
+
+#redirect{
+    font-size: 1em;
+    text-decoration: underline;
+    margin-top: -1em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#form-discussion{
+    margin-top: 2em;
+}
+#title2{
+    font-size: 3em;
+    font-weight: bold;
+}
+input{
+    border-radius: 0.4em;
+    padding: 0.5em;
+    border: 0.2px solid black
+} 

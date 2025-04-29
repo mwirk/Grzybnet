@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:1em;
+
+}
+#nav{
+    display: flex;
+    align-items: center;
+    background-color: #F8FF7C;
+    justify-content: space-around;
+    padding: 0.5em;
+    border-bottom: 1px solid black;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    
+}
+#brand{
+    font-size: 1.5em;
+}
+#logo:hover{
+    cursor: pointer;
+}
+#login:hover{
+    cursor: pointer;
+}
+#login{
+    text-decoration: underline;
+}
+#logo>img{
+    width: 4em;
+}
+#content>#title{
+    font-size: 3em;
+    font-weight: bold;
+}
+#top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 3em;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+button{
+    padding: 0.5em 0.7em 0.5em 0.7em;
+    background-color: #F8FF7C;
+    border: 0.2px solid black;
+    border-radius: 0.4em;
+    
+
+}
+button:hover{
+    cursor: pointer;
+}
+
+#createCommentButton{
+    padding: 0.5em 0.7em 0.5em 0.7em;
+    background-color: #F8FF7C;
+    border: 0.2px solid black;
+    border-radius: 0.4em;
+}

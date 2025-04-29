@@ -1,0 +1,53 @@
+version: "3.8"
+
+services:
+  api:
+    build: .
+    ports: 
+      - "5000:5000"
+    depends_on: 
+      - db
+      - auth
+    networks:
+      - backend
+    env_file:
+      - .env
+    container_name: api
+
+  auth:
+    image: quay.io/keycloak/keycloak:latest
+    command: >
+      start-dev 
+      --hostname localhost 
+      --hostname-strict false
+      --http-relative-path=/
+    ports:
+      - "8080:8080"
+    networks:
+      - backend
+    env_file:
+      - .env
+    volumes:
+      - keycloak_data:/opt/keycloak/data
+    container_name: auth
+
+  db:
+    image: mongo:latest
+    container_name: db
+    ports: 
+      - "27017:27017"
+    networks:
+      - backend
+    volumes:
+      - mongo_data:/data/db
+
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  keycloak_data: 
+    driver: local
+  mongo_data:
+    driver: local

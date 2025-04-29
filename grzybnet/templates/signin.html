@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrzybNet</title>
+    <link rel="stylesheet" href="static/styles/signin.css">
+    
+</head>
+<body>
+    <div id="content">
+        <div id="brand">
+        <img id="logo" src="static/images/mushroom.png">
+        <p id="brandName"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
+        </a></div>
+        <p id="title">Rejestracja</p>
+        {% if error == "Konto z taką nazwą użytkownika już istnieje." %}
+            <p style="color: red">{{error}}</p>
+        {% else %}
+            <p>{{error}}</p>
+        {% endif %}
+
+        <form method="POST", action="/signin" style="margin-top:-2.5em">
+            <input type='text' name="username" placeholder="Nazwa użytkownika" required>
+            <input type='password' name="password" placeholder="Hasło" required>
+            <input type="submit" id="sendButton" value="Zarestruj się">
+            </form>
+        <p id="redirect"><a href="{{ url_for('login') }}">Mam już konto</a></p>
+    </div>
+</body>
+</html>

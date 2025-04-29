@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+#nav{
+    display: flex;
+    align-items: center;
+    background-color: #F8FF7C;
+    justify-content: space-around;
+    padding: 0.5em;
+    border-bottom: 1px solid black;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    
+}
+#brand{
+    font-size: 1.5em;
+}
+#logo:hover{
+    cursor: pointer;
+}
+#login:hover{
+    cursor: pointer;
+}
+#login{
+    text-decoration: underline;
+}
+#logo>img{
+    width: 4em;
+}
+#title{
+    font-size: 2em;
+    font-weight: bold;
+}
+#top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 3em;
+}
+button{
+    padding: 0.5em 0.7em 0.5em 0.7em;
+    background-color: #F8FF7C;
+    border: 0.2px solid black;
+    border-radius: 0.4em;
+    
+
+}
+button:hover{
+    cursor: pointer;
+}
+#buttonSearch{
+    padding: 0.5em 0.7em 0.5em 0.7em;
+    background-color: #F8FF7C;
+    border: 0.2px solid black;
+    border-radius: 0.4em;
+}
+
+#buttonSearch:hover{
+    cursor: pointer;
+}
+#search{
+    margin: 0 1em 0 1em;
+}
+input{
+    border-radius: 0.4em;
+    padding: 0.5em;
+    border: 0.2px solid black
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#bottom{
+    display: flex;
+    flex-direction: column;
+}
+#discussion{
+    border-bottom: 1px solid black;
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    align-items: center;
+
+}
+#discussionTitle{
+    text-decoration: underline;
+}
+#under-title{
+    display: flex;
+    align-items: center;
+    gap: 0.2em;
+} 
+#ads {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}

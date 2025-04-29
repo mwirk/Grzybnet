@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/styles/control_point.css">
+</head>
+<body >
+    <div name="endpoints" style="display: flex; justify-content: center; align-content: center; flex-direction: column; gap: 3em">
+    <form method="GET", action="/">
+        <input type="submit" value="Endpoint: GET - Home page">
+    </form>
+    <form method="GET", action="/search">
+        <input name="q" type="text">
+        <input type="submit" value="Endpoint: GET - Szukanie wg. wzorca">
+    </form>
+    <form method="GET", action="/signin">
+        <input type="submit" value="Endpoint: GET - Signin page">
+    </form>
+    <form method="POST", action="/signin">
+        <input name='username' type="text" placeholder="username" required>
+        <input name='password' type="text" placeholder="password" required>
+        <input type="submit" value="Endpoint: POST - Wysyłanie danych i rejestracja">
+    </form>
+    <form method="GET", action="/discussion">
+        <input type="submit" value="Endpoint: GET - Create Discussion page">
+    </form>
+    <form method="POST", action="/discussion">
+        <input name='name' type="text" placeholder="title" required>
+        <input type="submit" value="Endpoint: POST - Wysyłanie danych i tworzenie nowej dyskusji w forum">
+    </form>
+    <form method="GET", action="/users">
+
+        <input type="submit" value="Endpoint: GET - Lista użytkowników w bazie">
+    </form>
+
+    </div>
+</body>
+</html>

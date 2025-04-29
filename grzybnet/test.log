@@ -1,0 +1,689 @@
+2025-01-19 16:53:57,538 - INFO - Rendering home page
+2025-01-19 16:54:03,536 - INFO - Search query received: piesek
+2025-01-19 16:54:03,586 - INFO - Found 0 discussions matching the query
+2025-01-19 16:54:05,817 - INFO - Rendering home page
+2025-01-19 16:54:15,052 - INFO - Search query received: miejscowek
+2025-01-19 16:54:15,100 - INFO - Found 0 discussions matching the query
+2025-01-19 16:54:23,299 - INFO - Search query received: miejsc
+2025-01-19 16:54:23,589 - INFO - Found 1 discussions matching the query
+2025-01-19 16:54:24,911 - INFO - Rendering home page
+2025-01-19 16:54:30,036 - INFO - User Andrzej logged out
+2025-01-19 16:54:30,074 - INFO - Rendering home page
+2025-01-26 18:07:01,079 - INFO -  * Restarting with stat
+2025-01-26 18:07:12,934 - WARNING -  * Debugger is active!
+2025-01-26 18:07:12,943 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:07:23,980 - INFO - Rendering home page
+2025-01-26 18:07:30,072 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:07:36,625 - INFO - Rendering home page
+2025-01-26 18:07:38,240 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:07:40,364 - INFO - Rendering home page
+2025-01-26 18:07:41,697 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:07:46,042 - INFO - Rendering home page
+2025-01-26 18:07:47,634 - INFO - Rendering login-in page
+2025-01-26 18:07:52,304 - INFO - Login attempt: admin
+2025-01-26 18:07:52,347 - WARNING - Login failed: admin
+2025-01-26 18:07:56,387 - INFO - Login attempt: admin
+2025-01-26 18:07:56,433 - INFO - Login successful: admin
+2025-01-26 18:07:56,452 - INFO - Rendering home page
+2025-01-26 18:07:58,691 - INFO - Rendering control_point page
+2025-01-26 18:08:03,792 - INFO - Rendering login-in page
+2025-01-26 18:08:13,350 - INFO - Login attempt: Adam
+2025-01-26 18:08:13,388 - WARNING - Login failed: Adam
+2025-01-26 18:08:21,953 - INFO - Login attempt: Adam
+2025-01-26 18:08:21,997 - WARNING - Login failed: Adam
+2025-01-26 18:08:27,088 - INFO - Login attempt: admin
+2025-01-26 18:08:27,141 - WARNING - Login failed: admin
+2025-01-26 18:08:30,479 - INFO - Login attempt: admin
+2025-01-26 18:08:30,520 - INFO - Login successful: admin
+2025-01-26 18:08:30,529 - INFO - Rendering home page
+2025-01-26 18:08:32,801 - INFO - Rendering control_point page
+2025-01-26 18:08:36,979 - INFO - Admin accessed user list
+2025-01-26 18:09:35,042 - INFO - Admin accessed user list
+2025-01-26 18:11:04,836 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:11:05,268 - INFO -  * Restarting with stat
+2025-01-26 18:11:17,207 - WARNING -  * Debugger is active!
+2025-01-26 18:11:17,215 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:11:25,914 - INFO - Admin accessed user list
+2025-01-26 18:12:48,527 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:12:48,718 - INFO -  * Restarting with stat
+2025-01-26 18:13:00,874 - WARNING -  * Debugger is active!
+2025-01-26 18:13:00,885 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:13:13,835 - INFO - Admin accessed user list
+2025-01-26 18:13:24,648 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:13:24,795 - INFO -  * Restarting with stat
+2025-01-26 18:13:36,695 - WARNING -  * Debugger is active!
+2025-01-26 18:13:36,699 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:14:03,258 - INFO - Admin accessed user list
+2025-01-26 18:14:14,412 - INFO - Rendering home page
+2025-01-26 18:14:15,992 - INFO - Rendering control_point page
+2025-01-26 18:14:17,179 - INFO - Admin accessed user list
+2025-01-26 18:14:29,332 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:14:29,852 - INFO -  * Restarting with stat
+2025-01-26 18:14:42,094 - WARNING -  * Debugger is active!
+2025-01-26 18:14:42,098 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:14:46,512 - INFO - Admin accessed user list
+2025-01-26 18:15:43,783 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:15:44,303 - INFO -  * Restarting with stat
+2025-01-26 18:16:00,187 - WARNING -  * Debugger is active!
+2025-01-26 18:16:00,205 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:16:04,044 - INFO - Admin accessed user list
+2025-01-26 18:16:14,806 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:16:15,247 - INFO -  * Restarting with stat
+2025-01-26 18:16:28,931 - WARNING -  * Debugger is active!
+2025-01-26 18:16:28,951 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:16:32,518 - INFO - Admin accessed user list
+2025-01-26 18:17:20,710 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:17:21,282 - INFO -  * Restarting with stat
+2025-01-26 18:17:33,257 - WARNING -  * Debugger is active!
+2025-01-26 18:17:33,273 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:17:35,594 - INFO - Rendering home page
+2025-01-26 18:18:04,862 - INFO - Search query received: smacz
+2025-01-26 18:18:04,913 - INFO - Found 0 discussions matching the query
+2025-01-26 18:18:37,715 - INFO - Search query received: d
+2025-01-26 18:18:37,911 - INFO - Found 2 discussions matching the query
+2025-01-26 18:18:44,479 - INFO - Search query received: przy
+2025-01-26 18:18:44,622 - INFO - Found 1 discussions matching the query
+2025-01-26 18:18:48,231 - INFO - Search query received: smacz
+2025-01-26 18:18:48,377 - INFO - Found 0 discussions matching the query
+2025-01-26 18:18:51,705 - INFO - Search query received: Smacz
+2025-01-26 18:18:51,745 - INFO - Found 1 discussions matching the query
+2025-01-26 18:19:13,197 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:19:13,722 - INFO -  * Restarting with stat
+2025-01-26 18:19:25,664 - WARNING -  * Debugger is active!
+2025-01-26 18:19:25,664 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:19:27,523 - INFO - Rendering home page
+2025-01-26 18:19:31,952 - INFO - Search query received: smacz
+2025-01-26 18:19:48,654 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:19:49,209 - INFO -  * Restarting with stat
+2025-01-26 18:20:02,910 - WARNING -  * Debugger is active!
+2025-01-26 18:20:02,924 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:20:04,620 - INFO - Search query received: smacz
+2025-01-26 18:20:04,968 - INFO - Found 0 discussions matching the query
+2025-01-26 18:20:06,834 - INFO - Rendering home page
+2025-01-26 18:20:09,173 - INFO - Search query received: smacz
+2025-01-26 18:20:09,204 - INFO - Found 0 discussions matching the query
+2025-01-26 18:20:12,459 - INFO - Rendering home page
+2025-01-26 18:20:15,183 - INFO - Search query received: Smacz
+2025-01-26 18:20:15,221 - INFO - Found 0 discussions matching the query
+2025-01-26 18:20:17,620 - INFO - Rendering home page
+2025-01-26 18:20:38,172 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:20:38,366 - INFO -  * Restarting with stat
+2025-01-26 18:20:48,477 - WARNING -  * Debugger is active!
+2025-01-26 18:20:48,483 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:20:54,011 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:20:54,472 - INFO -  * Restarting with stat
+2025-01-26 18:21:04,400 - WARNING -  * Debugger is active!
+2025-01-26 18:21:04,407 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:21:09,497 - INFO - Rendering home page
+2025-01-26 18:21:12,967 - INFO - Search query received: smacz
+2025-01-26 18:21:13,011 - INFO - Found 1 discussions matching the query
+2025-01-26 18:21:14,675 - INFO - Rendering home page
+2025-01-26 18:21:18,782 - INFO - Search query received: Borowik
+2025-01-26 18:21:18,828 - INFO - Found 1 discussions matching the query
+2025-01-26 18:21:20,164 - INFO - Rendering home page
+2025-01-26 18:21:22,571 - INFO - Rendering discussion creation form
+2025-01-26 18:21:24,864 - INFO - Creating new discussion: piesek
+2025-01-26 18:21:24,935 - INFO - Discussion piesek created successfully with ID: 67966f146662c50ef7e8326d
+2025-01-26 18:21:24,948 - INFO - Rendering home page
+2025-01-26 18:21:26,992 - INFO - Search query received: es
+2025-01-26 18:21:27,049 - INFO - Found 1 discussions matching the query
+2025-01-26 18:21:28,342 - INFO - Rendering home page
+2025-01-26 18:21:29,223 - INFO - Attempting to delete discussion with ID: 67966f146662c50ef7e8326d
+2025-01-26 18:21:29,305 - INFO - Discussion 67966f146662c50ef7e8326d deleted successfully
+2025-01-26 18:21:29,344 - INFO - Rendering home page
+2025-01-26 18:22:24,999 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:22:29,909 - INFO - Rendering home page
+2025-01-26 18:23:01,718 - INFO - Rendering control_point page
+2025-01-26 18:23:07,716 - INFO - Rendering discussion creation form
+2025-01-26 18:23:11,860 - INFO - Rendering sign-in page
+2025-01-26 18:26:26,971 - INFO - Rendering sign-in page
+2025-01-26 18:30:19,271 - INFO - Rendering control_point page
+2025-01-26 18:30:23,672 - INFO - Rendering home page
+2025-01-26 18:30:25,449 - INFO - Search query received: es
+2025-01-26 18:30:25,499 - INFO - Found 0 discussions matching the query
+2025-01-26 18:30:33,653 - INFO - Search query received: bo
+2025-01-26 18:30:33,698 - INFO - Found 1 discussions matching the query
+2025-01-26 18:32:48,620 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:32:52,987 - INFO - Rendering home page
+2025-01-26 18:32:59,209 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:33:04,212 - INFO - Adding comment to discussion ID: 678d1c386089ce4a2a2a39ff, title: dsd
+2025-01-26 18:33:04,347 - INFO - Comment added successfully to discussion ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:33:08,144 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:33:09,527 - INFO - Attempting to delete comment with ID: efd8f0c3-08c6-402f-bd38-bfc33eabef78
+2025-01-26 18:33:09,623 - INFO - Comment efd8f0c3-08c6-402f-bd38-bfc33eabef78 deleted successfully
+2025-01-26 18:33:09,654 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:33:15,500 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:35:28,222 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:35:28,437 - INFO -  * Restarting with stat
+2025-01-26 18:35:40,698 - WARNING -  * Debugger is active!
+2025-01-26 18:35:40,698 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:40:12,464 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:40:33,763 - INFO - Attempting to delete comment with ID: a3d71988-c8a2-4fb1-a04f-916e5d5b3b3e
+2025-01-26 18:40:33,885 - INFO - Comment a3d71988-c8a2-4fb1-a04f-916e5d5b3b3e deleted successfully
+2025-01-26 18:40:33,948 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:40:37,891 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:40:41,564 - INFO - Attempting to delete comment with ID: 099f7016-ab12-4b32-b722-ff7f4241bf76
+2025-01-26 18:40:41,660 - INFO - Comment 099f7016-ab12-4b32-b722-ff7f4241bf76 deleted successfully
+2025-01-26 18:40:41,727 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:40:50,225 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:40:53,183 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:41:08,285 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 18:41:10,283 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:41:22,643 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sada
+2025-01-26 18:41:22,754 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:41:24,653 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:43:10,012 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:43:26,844 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sad
+2025-01-26 18:43:26,955 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:44:17,410 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:44:21,089 - INFO - Attempting to delete comment with ID: 599ab751-a5cc-40e5-a24c-ba9d91bbad93
+2025-01-26 18:44:21,201 - INFO - Comment 599ab751-a5cc-40e5-a24c-ba9d91bbad93 deleted successfully
+2025-01-26 18:44:21,523 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:44:23,219 - INFO - Attempting to delete comment with ID: efcf993e-7ed7-4f8f-a72d-e79e4c00ee3b
+2025-01-26 18:44:23,325 - INFO - Comment efcf993e-7ed7-4f8f-a72d-e79e4c00ee3b deleted successfully
+2025-01-26 18:44:23,395 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:44:25,578 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sdsd
+2025-01-26 18:44:25,673 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:45:42,882 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:45:53,062 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:45:54,240 - INFO - Attempting to delete comment with ID: 53c16218-e524-4cb7-b2b0-f0b116cbaa8c
+2025-01-26 18:45:54,344 - INFO - Comment 53c16218-e524-4cb7-b2b0-f0b116cbaa8c deleted successfully
+2025-01-26 18:45:54,408 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:47:12,816 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:47:13,476 - INFO -  * Restarting with stat
+2025-01-26 18:47:24,056 - WARNING -  * Debugger is active!
+2025-01-26 18:47:24,062 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:47:35,678 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:47:38,193 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdas
+2025-01-26 18:47:38,318 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:47:39,749 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:47:40,739 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:47:41,640 - INFO - Attempting to delete comment with ID: ca098990-4fdf-46fb-8f42-a130af2a121c
+2025-01-26 18:48:04,186 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:48:04,759 - INFO -  * Restarting with stat
+2025-01-26 18:48:16,515 - WARNING -  * Debugger is active!
+2025-01-26 18:48:16,515 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:48:19,953 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:48:21,161 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:48:24,079 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sadsa
+2025-01-26 18:48:24,183 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:48:26,619 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:48:27,538 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:48:28,370 - INFO - Attempting to delete comment with ID: d17301dd-db5f-4886-a16d-36aea51b2894
+2025-01-26 18:49:00,933 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:49:01,080 - INFO -  * Restarting with stat
+2025-01-26 18:49:12,965 - WARNING -  * Debugger is active!
+2025-01-26 18:49:12,970 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:49:15,286 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:16,643 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:18,369 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sad
+2025-01-26 18:49:18,458 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:20,806 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:22,028 - INFO - Attempting to delete comment with ID: 59a712d3-84a3-4c95-8564-2faf23963cd6
+2025-01-26 18:49:32,753 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:49:33,130 - INFO -  * Restarting with stat
+2025-01-26 18:49:47,443 - WARNING -  * Debugger is active!
+2025-01-26 18:49:47,452 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:49:49,851 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:50,585 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:52,806 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asda
+2025-01-26 18:49:52,906 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:54,226 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:55,305 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:49:56,068 - INFO - Attempting to delete comment with ID: dcdba7ea-fe2a-4958-8a13-002c2a75d1a2
+2025-01-26 18:49:56,163 - INFO - Comment dcdba7ea-fe2a-4958-8a13-002c2a75d1a2 deleted successfully
+2025-01-26 18:49:56,254 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:50:04,609 - INFO - Rendering home page
+2025-01-26 18:50:18,193 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:50:21,137 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sada
+2025-01-26 18:50:21,326 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:50:22,847 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:50:24,995 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:50:25,803 - INFO - Attempting to delete comment with ID: e0d28a7c-c211-4ffd-947e-19f17c330aea
+2025-01-26 18:50:25,895 - INFO - Comment e0d28a7c-c211-4ffd-947e-19f17c330aea deleted successfully
+2025-01-26 18:50:25,993 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:51:39,606 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:51:41,997 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sds
+2025-01-26 18:51:42,089 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:51:44,373 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:51:45,072 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:51:46,563 - INFO - Attempting to delete comment with ID: 1ad0d37e-c87e-4020-b18b-79b0c2d63da2
+2025-01-26 18:51:46,804 - INFO - Comment 1ad0d37e-c87e-4020-b18b-79b0c2d63da2 deleted successfully
+2025-01-26 18:51:46,875 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:52:08,777 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sdds
+2025-01-26 18:52:08,890 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:53:36,045 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:53:55,275 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:00,236 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:02,679 - INFO - Attempting to delete comment with ID: c514d5e6-48c7-481e-a09e-074ccead241c
+2025-01-26 18:54:02,798 - INFO - Comment c514d5e6-48c7-481e-a09e-074ccead241c deleted successfully
+2025-01-26 18:54:03,075 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:07,972 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:09,689 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: dasd
+2025-01-26 18:54:09,782 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:11,414 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:12,176 - INFO - Attempting to delete comment with ID: 560a202b-f43e-4dd6-b0a8-38628ae3a5c5
+2025-01-26 18:54:12,290 - INFO - Comment 560a202b-f43e-4dd6-b0a8-38628ae3a5c5 deleted successfully
+2025-01-26 18:54:12,366 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:14,604 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdasd
+2025-01-26 18:54:14,711 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:15,710 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:17,785 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:18,913 - INFO - Attempting to delete comment with ID: 844bd90f-1d70-4137-ba15-0706fb46963c
+2025-01-26 18:54:19,016 - INFO - Comment 844bd90f-1d70-4137-ba15-0706fb46963c deleted successfully
+2025-01-26 18:54:19,075 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:45,839 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:47,005 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:50,138 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: zXX
+2025-01-26 18:54:50,224 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:51,832 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:52,951 - INFO - Attempting to delete comment with ID: c7e70334-3b25-41e6-bd8d-beccf4491e59
+2025-01-26 18:54:53,031 - INFO - Comment c7e70334-3b25-41e6-bd8d-beccf4491e59 deleted successfully
+2025-01-26 18:54:53,108 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:55,121 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:54:58,842 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:55:22,809 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: adasd
+2025-01-26 18:55:22,926 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:55:27,777 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:55:31,196 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:11,170 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 18:57:11,637 - INFO -  * Restarting with stat
+2025-01-26 18:57:25,791 - WARNING -  * Debugger is active!
+2025-01-26 18:57:25,795 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 18:57:29,253 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:31,125 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:32,491 - INFO - Attempting to delete comment with ID: 2e6741b4-5ecd-4904-bf82-c8964ad0840a
+2025-01-26 18:57:32,600 - INFO - Comment 2e6741b4-5ecd-4904-bf82-c8964ad0840a deleted successfully
+2025-01-26 18:57:32,646 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:34,217 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:35,219 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:37,332 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: xczz
+2025-01-26 18:57:37,434 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:38,784 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:39,505 - INFO - Attempting to delete comment with ID: 30cc1217-adc0-428c-8524-194249c78f99
+2025-01-26 18:57:39,597 - INFO - Comment 30cc1217-adc0-428c-8524-194249c78f99 deleted successfully
+2025-01-26 18:57:39,611 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:40,992 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:43,628 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdsadas
+2025-01-26 18:57:43,727 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:44,969 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:45,664 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:57:46,410 - INFO - Attempting to delete comment with ID: 136d6ac2-d266-40e4-a557-557a1ce76f1a
+2025-01-26 18:57:46,510 - INFO - Comment 136d6ac2-d266-40e4-a557-557a1ce76f1a deleted successfully
+2025-01-26 18:57:46,540 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:19,567 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:20,457 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:22,632 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdsa
+2025-01-26 18:59:22,731 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:23,908 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:24,706 - INFO - Attempting to delete comment with ID: 19af5f5f-6f6b-4395-af0a-0e0d3b17432f
+2025-01-26 18:59:24,819 - INFO - Comment 19af5f5f-6f6b-4395-af0a-0e0d3b17432f deleted successfully
+2025-01-26 18:59:24,864 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:26,304 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:51,722 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdasd
+2025-01-26 18:59:51,837 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 18:59:53,077 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:00:38,006 - INFO -  * Restarting with stat
+2025-01-26 19:00:51,661 - WARNING -  * Debugger is active!
+2025-01-26 19:00:51,661 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:01:58,338 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:07,221 - INFO - Attempting to delete comment with ID: f55d47cd-a793-484f-abc0-c405093dacdf
+2025-01-26 19:02:07,338 - INFO - Comment f55d47cd-a793-484f-abc0-c405093dacdf deleted successfully
+2025-01-26 19:02:07,376 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:09,127 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:11,239 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sdsada
+2025-01-26 19:02:11,346 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:12,499 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:13,633 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:14,721 - INFO - Attempting to delete comment with ID: 5ddbb48d-ba01-42e7-96aa-1154d674ea97
+2025-01-26 19:02:14,808 - INFO - Comment 5ddbb48d-ba01-42e7-96aa-1154d674ea97 deleted successfully
+2025-01-26 19:02:14,848 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:02:19,117 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdasd
+2025-01-26 19:02:19,225 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:09,714 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:04:09,912 - INFO -  * Restarting with stat
+2025-01-26 19:04:21,815 - WARNING -  * Debugger is active!
+2025-01-26 19:04:21,824 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:04:24,847 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:28,524 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:29,702 - INFO - Attempting to delete comment with ID: 77d127f2-8657-479a-9069-5956c7c976b3
+2025-01-26 19:04:29,824 - INFO - Comment 77d127f2-8657-479a-9069-5956c7c976b3 deleted successfully
+2025-01-26 19:04:29,886 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:32,637 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:34,954 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdsad
+2025-01-26 19:04:35,047 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:36,162 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:37,040 - INFO - Attempting to delete comment with ID: 529b9734-0719-458b-b3d6-7828936d2ca1
+2025-01-26 19:04:37,144 - INFO - Comment 529b9734-0719-458b-b3d6-7828936d2ca1 deleted successfully
+2025-01-26 19:04:37,184 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:39,123 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdsada
+2025-01-26 19:04:39,212 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:40,803 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:41,640 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:42,774 - INFO - Attempting to delete comment with ID: 00cabca4-6655-4da5-97d9-9b3a9c132421
+2025-01-26 19:04:42,868 - INFO - Comment 00cabca4-6655-4da5-97d9-9b3a9c132421 deleted successfully
+2025-01-26 19:04:42,899 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:48,954 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:51,039 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sdasdasda
+2025-01-26 19:04:51,122 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:52,581 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:53,365 - INFO - Attempting to delete comment with ID: 550722e8-46d5-468b-b60b-faa7733deda6
+2025-01-26 19:04:53,444 - INFO - Comment 550722e8-46d5-468b-b60b-faa7733deda6 deleted successfully
+2025-01-26 19:04:53,470 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:56,872 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdasd
+2025-01-26 19:04:56,970 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:58,079 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:04:59,018 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:00,461 - INFO - Attempting to delete comment with ID: 50978fa4-2524-40fd-ba35-2375324836ca
+2025-01-26 19:05:00,731 - INFO - Comment 50978fa4-2524-40fd-ba35-2375324836ca deleted successfully
+2025-01-26 19:05:00,763 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:03,105 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:04,777 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: adasd
+2025-01-26 19:05:04,937 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:06,104 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:06,848 - INFO - Attempting to delete comment with ID: 68e2c0fd-e4bc-4aac-bdbb-31c4d09c5c84
+2025-01-26 19:05:06,948 - INFO - Comment 68e2c0fd-e4bc-4aac-bdbb-31c4d09c5c84 deleted successfully
+2025-01-26 19:05:06,996 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:10,216 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdsadsa
+2025-01-26 19:05:10,314 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:11,071 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:11,749 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:36,916 - INFO - Attempting to delete comment with ID: 83bde399-533a-4fec-baae-bdf13445068e
+2025-01-26 19:05:37,015 - INFO - Comment 83bde399-533a-4fec-baae-bdf13445068e deleted successfully
+2025-01-26 19:05:37,299 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:39,748 - INFO - Attempting to delete comment with ID: 83bde399-533a-4fec-baae-bdf13445068e
+2025-01-26 19:05:39,871 - INFO - Comment 83bde399-533a-4fec-baae-bdf13445068e deleted successfully
+2025-01-26 19:05:39,911 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:41,462 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:42,811 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:05:45,754 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: zczxc
+2025-01-26 19:05:45,849 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:07,295 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:08,265 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:09,780 - INFO - Attempting to delete comment with ID: 1c3193e1-1490-4c9b-a349-a17576f7afe9
+2025-01-26 19:06:09,939 - INFO - Comment 1c3193e1-1490-4c9b-a349-a17576f7afe9 deleted successfully
+2025-01-26 19:06:09,962 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:11,437 - INFO - Attempting to delete comment with ID: 1c3193e1-1490-4c9b-a349-a17576f7afe9
+2025-01-26 19:06:11,530 - INFO - Comment 1c3193e1-1490-4c9b-a349-a17576f7afe9 deleted successfully
+2025-01-26 19:06:11,563 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:24,768 - INFO -  * Restarting with stat
+2025-01-26 19:06:36,443 - WARNING -  * Debugger is active!
+2025-01-26 19:06:36,443 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:06:40,367 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:43,173 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: dasd
+2025-01-26 19:06:43,273 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:44,537 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:46,018 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:47,003 - INFO - Attempting to delete comment with ID: c1952a7d-daa9-441f-ba30-b3e20d074831
+2025-01-26 19:06:47,093 - INFO - Comment c1952a7d-daa9-441f-ba30-b3e20d074831 deleted successfully
+2025-01-26 19:06:47,124 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:49,534 - INFO - Attempting to delete comment with ID: c1952a7d-daa9-441f-ba30-b3e20d074831
+2025-01-26 19:06:49,649 - INFO - Comment c1952a7d-daa9-441f-ba30-b3e20d074831 deleted successfully
+2025-01-26 19:06:49,688 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:51,309 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: dasdasd
+2025-01-26 19:06:51,420 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:52,531 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:06:53,412 - INFO - Attempting to delete comment with ID: d604b72d-1cc3-4a52-944e-c71826548e7f
+2025-01-26 19:06:53,635 - INFO - Comment d604b72d-1cc3-4a52-944e-c71826548e7f deleted successfully
+2025-01-26 19:06:53,687 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:24,658 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:26,284 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sadasd
+2025-01-26 19:08:26,389 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:28,076 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:33,020 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:38,649 - INFO - Attempting to delete comment with ID: e33a7a0a-36b7-485a-b21f-524a872cf1e1
+2025-01-26 19:08:38,745 - INFO - Comment e33a7a0a-36b7-485a-b21f-524a872cf1e1 deleted successfully
+2025-01-26 19:08:38,793 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:39,964 - INFO - Attempting to delete comment with ID: e33a7a0a-36b7-485a-b21f-524a872cf1e1
+2025-01-26 19:08:40,082 - INFO - Comment e33a7a0a-36b7-485a-b21f-524a872cf1e1 deleted successfully
+2025-01-26 19:08:40,139 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:42,085 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:43,576 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: sadasd
+2025-01-26 19:08:43,677 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:45,223 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:46,519 - INFO - Attempting to delete comment with ID: 313aa01b-b4b0-4129-82df-0dcc49b42821
+2025-01-26 19:08:46,759 - INFO - Comment 313aa01b-b4b0-4129-82df-0dcc49b42821 deleted successfully
+2025-01-26 19:08:46,799 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:08:50,350 - INFO - Adding comment to discussion ID: 678d1c726089ce4a2a2a3a00, title: asdsad
+2025-01-26 19:08:50,520 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:02,401 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:03,418 - INFO - Attempting to delete comment with ID: 45e08f20-f28c-41ce-89a3-851f335150fd
+2025-01-26 19:09:03,505 - INFO - Comment 45e08f20-f28c-41ce-89a3-851f335150fd deleted successfully
+2025-01-26 19:09:03,547 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:17,579 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:32,417 - INFO - User admin logged out
+2025-01-26 19:09:32,444 - INFO - Rendering home page
+2025-01-26 19:09:33,412 - INFO - Rendering login-in page
+2025-01-26 19:09:38,847 - INFO - Login attempt: Ryszard1968
+2025-01-26 19:09:38,920 - INFO - Login successful: Ryszard1968
+2025-01-26 19:09:38,940 - INFO - Rendering home page
+2025-01-26 19:09:40,349 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:42,084 - INFO - Attempting to delete comment with ID: 4dc5ae54-a5a7-4024-b732-d4459f419053
+2025-01-26 19:09:42,183 - INFO - Comment 4dc5ae54-a5a7-4024-b732-d4459f419053 deleted successfully
+2025-01-26 19:09:42,200 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:45,048 - INFO - Comment added successfully to discussion ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:09:48,414 - INFO - Rendering home page
+2025-01-26 19:09:49,804 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 19:10:06,080 - INFO - Comment added successfully to discussion ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 19:10:10,970 - INFO - User Ryszard1968 logged out
+2025-01-26 19:10:11,001 - INFO - Rendering home page
+2025-01-26 19:10:12,379 - INFO - Rendering login-in page
+2025-01-26 19:10:20,827 - INFO - Login attempt: Adam
+2025-01-26 19:10:20,889 - INFO - Login successful: Adam
+2025-01-26 19:10:20,904 - INFO - Rendering home page
+2025-01-26 19:10:24,543 - INFO - User Adam logged out
+2025-01-26 19:10:24,579 - INFO - Rendering home page
+2025-01-26 19:10:25,412 - INFO - Rendering login-in page
+2025-01-26 19:10:30,952 - INFO - Login attempt: Andrzej
+2025-01-26 19:10:31,000 - INFO - Login successful: Andrzej
+2025-01-26 19:10:31,271 - INFO - Rendering home page
+2025-01-26 19:10:32,508 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 19:10:36,286 - INFO - Comment added successfully to discussion ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 19:10:39,128 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 19:10:41,702 - INFO - Rendering home page
+2025-01-26 19:10:43,910 - INFO - Fetching discussion with ID: 678d1c386089ce4a2a2a39ff
+2025-01-26 19:10:46,034 - INFO - Rendering home page
+2025-01-26 19:10:47,477 - INFO - Rendering discussion creation form
+2025-01-26 19:10:49,423 - INFO - Creating new discussion: asdas
+2025-01-26 19:10:49,482 - INFO - Discussion asdas created successfully with ID: 67967aa9194738cedaa888ff
+2025-01-26 19:10:49,497 - INFO - Rendering home page
+2025-01-26 19:10:51,090 - INFO - Attempting to delete discussion with ID: 67967aa9194738cedaa888ff
+2025-01-26 19:10:51,184 - INFO - Discussion 67967aa9194738cedaa888ff deleted successfully
+2025-01-26 19:10:51,205 - INFO - Rendering home page
+2025-01-26 19:11:15,841 - INFO - Search query received: sma
+2025-01-26 19:11:17,815 - INFO - Found 1 discussions matching the query
+2025-01-26 19:11:19,584 - INFO - Rendering home page
+2025-01-26 19:11:23,404 - INFO - Search query received: sdasd
+2025-01-26 19:11:25,794 - INFO - Found 0 discussions matching the query
+2025-01-26 19:11:29,038 - INFO - Rendering home page
+2025-01-26 19:11:33,907 - INFO - Rendering home page
+2025-01-26 19:21:45,590 - INFO - Rendering discussion creation form
+2025-01-26 19:21:47,501 - INFO - Creating new discussion: asdasd
+2025-01-26 19:21:47,568 - INFO - Discussion asdasd created successfully with ID: 67967d3b194738cedaa88900
+2025-01-26 19:21:47,615 - INFO - Rendering home page
+2025-01-26 19:21:53,242 - INFO - Rendering discussion creation form
+2025-01-26 19:21:55,323 - INFO - Creating new discussion: sadasd
+2025-01-26 19:21:55,389 - INFO - Discussion sadasd created successfully with ID: 67967d43194738cedaa88901
+2025-01-26 19:21:55,406 - INFO - Rendering home page
+2025-01-26 19:21:56,572 - INFO - Rendering discussion creation form
+2025-01-26 19:21:58,264 - INFO - Creating new discussion: dasdsad
+2025-01-26 19:21:58,327 - INFO - Discussion dasdsad created successfully with ID: 67967d46194738cedaa88902
+2025-01-26 19:21:58,388 - INFO - Rendering home page
+2025-01-26 19:22:02,077 - INFO - Attempting to delete discussion with ID: 67967d46194738cedaa88902
+2025-01-26 19:22:02,160 - INFO - Discussion 67967d46194738cedaa88902 deleted successfully
+2025-01-26 19:22:02,218 - INFO - Rendering home page
+2025-01-26 19:22:03,847 - INFO - Attempting to delete discussion with ID: 67967d43194738cedaa88901
+2025-01-26 19:22:03,930 - INFO - Discussion 67967d43194738cedaa88901 deleted successfully
+2025-01-26 19:22:04,001 - INFO - Rendering home page
+2025-01-26 19:22:05,564 - INFO - Attempting to delete discussion with ID: 67967d3b194738cedaa88900
+2025-01-26 19:22:06,163 - INFO - Discussion 67967d3b194738cedaa88900 deleted successfully
+2025-01-26 19:22:06,195 - INFO - Rendering home page
+2025-01-26 19:22:11,066 - INFO - Rendering discussion creation form
+2025-01-26 19:22:12,916 - INFO - Creating new discussion: sadasd
+2025-01-26 19:22:12,977 - INFO - Discussion sadasd created successfully with ID: 67967d54194738cedaa88903
+2025-01-26 19:22:13,020 - INFO - Rendering home page
+2025-01-26 19:22:17,111 - INFO - Rendering home page
+2025-01-26 19:22:18,843 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:22:23,762 - INFO - Attempting to delete discussion with ID: 67967d54194738cedaa88903
+2025-01-26 19:22:23,842 - INFO - Discussion 67967d54194738cedaa88903 deleted successfully
+2025-01-26 19:22:23,892 - INFO - Rendering home page
+2025-01-26 19:22:25,820 - INFO - Fetching discussion with ID: 67967d54194738cedaa88903
+2025-01-26 19:22:25,866 - WARNING - Discussion with ID 67967d54194738cedaa88903 not found
+2025-01-26 19:23:28,353 - INFO - Rendering home page
+2025-01-26 19:23:34,634 - INFO - User Andrzej logged out
+2025-01-26 19:23:34,674 - INFO - Rendering home page
+2025-01-26 19:23:36,471 - INFO - Fetching discussion with ID: 678d1c726089ce4a2a2a3a00
+2025-01-26 19:23:40,318 - INFO - Rendering login-in page
+2025-01-26 19:23:46,711 - INFO - Login attempt: Andrzej
+2025-01-26 19:23:46,796 - INFO - Login successful: Andrzej
+2025-01-26 19:23:46,832 - INFO - Rendering home page
+2025-01-26 19:23:49,206 - INFO - Rendering discussion creation form
+2025-01-26 19:23:51,547 - INFO - Creating new discussion: asdsa
+2025-01-26 19:23:51,610 - INFO - Discussion asdsa created successfully with ID: 67967db7194738cedaa88904
+2025-01-26 19:23:51,646 - INFO - Rendering home page
+2025-01-26 19:23:59,549 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:23:59,593 - INFO - Discussion found: asdsa
+2025-01-26 19:24:04,619 - INFO - Comment added successfully to discussion ID: 67967db7194738cedaa88904
+2025-01-26 19:24:06,746 - INFO - Updating discussion with ID: 67967db7194738cedaa88904, new title: sdds
+2025-01-26 19:24:06,954 - INFO - Discussion 67967db7194738cedaa88904 updated successfully
+2025-01-26 19:24:07,008 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:07,048 - INFO - Discussion found: sdds
+2025-01-26 19:24:10,298 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:10,353 - INFO - Discussion found: sdds
+2025-01-26 19:24:13,766 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:13,808 - INFO - Discussion found: sdds
+2025-01-26 19:24:35,850 - INFO - Rendering home page
+2025-01-26 19:24:37,436 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:37,499 - INFO - Discussion found: sdds
+2025-01-26 19:24:40,276 - INFO - Rendering home page
+2025-01-26 19:24:41,693 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:41,737 - INFO - Discussion found: sdds
+2025-01-26 19:24:44,568 - INFO - Updating discussion with ID: 67967db7194738cedaa88904, new title: dd
+2025-01-26 19:24:44,668 - INFO - Discussion 67967db7194738cedaa88904 updated successfully
+2025-01-26 19:24:44,739 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:44,791 - INFO - Discussion found: dd
+2025-01-26 19:24:46,136 - INFO - Rendering home page
+2025-01-26 19:24:47,705 - INFO - Fetching discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:47,759 - INFO - Discussion found: dd
+2025-01-26 19:24:50,765 - INFO - Attempting to delete discussion with ID: 67967db7194738cedaa88904
+2025-01-26 19:24:50,865 - INFO - Discussion 67967db7194738cedaa88904 deleted successfully
+2025-01-26 19:24:50,925 - INFO - Rendering home page
+2025-01-26 19:24:55,373 - INFO - User Andrzej logged out
+2025-01-26 19:24:55,399 - INFO - Rendering home page
+2025-01-26 19:24:56,303 - INFO - Rendering login-in page
+2025-01-26 19:25:01,725 - INFO - Login attempt: admin
+2025-01-26 19:25:01,862 - WARNING - Login failed: admin
+2025-01-26 19:25:06,804 - INFO - Login attempt: admin
+2025-01-26 19:25:06,856 - INFO - Login successful: admin
+2025-01-26 19:25:06,908 - INFO - Rendering home page
+2025-01-26 19:25:08,399 - INFO - Rendering control_point page
+2025-01-26 19:25:14,286 - INFO - Creating new discussion: sadasd
+2025-01-26 19:25:14,353 - INFO - Discussion sadasd created successfully with ID: 67967e0a194738cedaa88905
+2025-01-26 19:25:14,376 - INFO - Rendering home page
+2025-01-26 19:25:17,552 - INFO - Attempting to delete discussion with ID: 67967e0a194738cedaa88905
+2025-01-26 19:25:17,659 - INFO - Discussion 67967e0a194738cedaa88905 deleted successfully
+2025-01-26 19:25:17,712 - INFO - Rendering home page
+2025-01-26 19:25:19,133 - INFO - Rendering control_point page
+2025-01-26 19:25:20,732 - INFO - Rendering discussion creation form
+2025-01-26 19:25:50,646 - INFO - Sign-in attempt for username: nowyUser
+2025-01-26 19:25:50,743 - INFO - Sign-in successful: username nowyUser registered
+2025-01-26 19:25:58,486 - INFO - User admin logged out
+2025-01-26 19:25:58,536 - INFO - Rendering home page
+2025-01-26 19:26:00,075 - INFO - Rendering login-in page
+2025-01-26 19:26:09,252 - INFO - Login attempt: nowyUser
+2025-01-26 19:26:09,305 - INFO - Login successful: nowyUser
+2025-01-26 19:26:09,336 - INFO - Rendering home page
+2025-01-26 19:26:13,072 - INFO - User nowyUser logged out
+2025-01-26 19:26:13,106 - INFO - Rendering home page
+2025-01-26 19:26:16,129 - INFO - Rendering login-in page
+2025-01-26 19:26:22,833 - INFO - Rendering home page
+2025-01-26 19:27:32,920 - INFO - Rendering login-in page
+2025-01-26 19:27:37,358 - INFO - Login attempt: admin
+2025-01-26 19:27:37,414 - INFO - Login successful: admin
+2025-01-26 19:27:37,443 - INFO - Rendering home page
+2025-01-26 19:32:41,486 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:32:42,025 - INFO -  * Restarting with stat
+2025-01-26 19:32:54,815 - WARNING -  * Debugger is active!
+2025-01-26 19:32:54,827 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:33:01,246 - INFO - Rendering home page
+2025-01-26 19:33:03,519 - INFO - Rendering control_point page
+2025-01-26 19:33:05,288 - INFO - Rendering users list
+2025-01-26 19:33:24,632 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:33:25,922 - INFO -  * Restarting with stat
+2025-01-26 19:33:38,568 - WARNING -  * Debugger is active!
+2025-01-26 19:33:38,589 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:35:12,382 - INFO - Rendering users list
+2025-01-26 19:35:59,611 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:35:59,919 - INFO -  * Restarting with stat
+2025-01-26 19:36:10,674 - WARNING -  * Debugger is active!
+2025-01-26 19:36:10,685 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:36:15,214 - INFO - Rendering users list
+2025-01-26 19:36:49,578 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:36:49,778 - INFO -  * Restarting with stat
+2025-01-26 19:37:00,938 - WARNING -  * Debugger is active!
+2025-01-26 19:37:00,947 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:37:20,185 - INFO - Rendering home page
+2025-01-26 19:38:18,697 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:38:18,969 - INFO -  * Restarting with stat
+2025-01-26 19:38:31,423 - WARNING -  * Debugger is active!
+2025-01-26 19:38:31,431 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:38:49,338 - INFO - Rendering home page
+2025-01-26 19:38:52,197 - INFO - User admin logged out
+2025-01-26 19:38:52,234 - INFO - Rendering home page
+2025-01-26 19:38:56,053 - INFO - Rendering users list
+2025-01-26 19:39:21,452 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:39:21,802 - INFO -  * Restarting with stat
+2025-01-26 19:39:32,319 - WARNING -  * Debugger is active!
+2025-01-26 19:39:32,319 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:39:37,980 - INFO - Rendering home page
+2025-01-26 19:39:42,341 - INFO - Rendering users list
+2025-01-26 19:40:39,362 - INFO - Rendering login-in page
+2025-01-26 19:40:45,367 - INFO - Login attempt: Adam
+2025-01-26 19:40:45,444 - INFO - Login successful: Adam
+2025-01-26 19:40:45,475 - INFO - Rendering home page
+2025-01-26 19:40:51,928 - INFO - User Adam logged out
+2025-01-26 19:40:51,974 - INFO - Rendering home page
+2025-01-26 19:41:05,916 - INFO - Rendering login-in page
+2025-01-26 19:41:16,333 - INFO - Login attempt: admin
+2025-01-26 19:41:16,381 - INFO - Login successful: admin
+2025-01-26 19:41:16,417 - INFO - Rendering home page
+2025-01-26 19:41:22,167 - INFO - Rendering users list
+2025-01-26 19:41:34,795 - INFO - User admin logged out
+2025-01-26 19:41:34,863 - INFO - Rendering home page
+2025-01-26 19:41:37,207 - INFO - Rendering login-in page
+2025-01-26 19:41:40,899 - INFO - Login attempt: Adam
+2025-01-26 19:41:40,953 - INFO - Login successful: Adam
+2025-01-26 19:41:40,973 - INFO - Rendering home page
+2025-01-26 19:41:52,946 - INFO - User Adam logged out
+2025-01-26 19:41:52,989 - INFO - Rendering home page
+2025-01-26 19:41:54,235 - INFO - Rendering login-in page
+2025-01-26 19:41:58,814 - INFO - Login attempt: admin
+2025-01-26 19:41:58,894 - INFO - Login successful: admin
+2025-01-26 19:41:58,941 - INFO - Rendering home page
+2025-01-26 19:42:00,444 - INFO - Rendering control_point page
+2025-01-26 19:44:42,055 - INFO - Rendering control_point page
+2025-01-26 19:44:53,702 - INFO - Rendering control_point page
+2025-01-26 19:44:55,561 - INFO - Rendering control_point page
+2025-01-26 19:45:17,702 - INFO - Rendering control_point page
+2025-01-26 19:45:26,758 - INFO - Rendering control_point page
+2025-01-26 19:45:39,860 - INFO - Rendering control_point page
+2025-01-26 19:45:56,465 - INFO - Rendering discussion creation form
+2025-01-26 19:46:04,175 - INFO - Rendering control_point page
+2025-01-26 19:46:46,003 - INFO -  * Detected change in 'C:\\Users\\mwirk\\OneDrive\\Pulpit\\grzybnet\\app.py', reloading
+2025-01-26 19:46:46,314 - INFO -  * Restarting with stat
+2025-01-26 19:46:59,664 - WARNING -  * Debugger is active!
+2025-01-26 19:46:59,681 - INFO -  * Debugger PIN: 222-117-729
+2025-01-26 19:47:15,343 - INFO - Rendering home page
+2025-01-26 19:47:19,302 - INFO - User admin logged out
+2025-01-26 19:47:19,343 - INFO - Rendering home page
+2025-01-26 19:47:21,455 - INFO - Rendering login-in page
+2025-01-26 19:47:27,684 - INFO - Login attempt: Adam
+2025-01-26 19:47:27,733 - INFO - Login successful: Adam
+2025-01-26 19:47:27,773 - INFO - Rendering home page
+2025-04-24 16:53:11,983 - INFO -  * Restarting with stat
+2025-04-24 16:53:14,549 - WARNING -  * Debugger is active!
+2025-04-24 16:53:14,573 - INFO -  * Debugger PIN: 757-025-658
+2025-04-24 16:54:26,817 - INFO -  * Restarting with stat
+2025-04-24 16:54:29,767 - WARNING -  * Debugger is active!
+2025-04-24 16:54:29,781 - INFO -  * Debugger PIN: 757-025-658
+2025-04-24 16:54:37,744 - INFO - Rendering home page

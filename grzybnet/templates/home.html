@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/styles/home.css">
+    <script src="static/scripts/home.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <title>GrzybNet</title>
+</head>
+<body>
+    <div id="container">
+        <div id="nav">
+            <div id="logo">
+                <img src="static/images/mushroom.png">
+                <p id="brand"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
+            </a></div> 
+ 
+
+            {% if session['user'] %}
+                {% if session['role'] == 'admin' %}
+                    <form method="GET", action="/controlpoint" style="margin-right: 4em;">
+                    <input type="submit" value="Endpointy">
+                    </form>
+        
+                {%endif%}
+            <form method="PUT", action="/logout" style="display: flex; gap:1em;">
+            <p>Zalogowany jako: {{session['user']['username']}}</p>
+            <input type="submit" value="Wyloguj się">
+            </form>
+            {% else %} 
+            <p id="login"><a href="{{ url_for('login') }}">Zaloguj się</a></p>   
+            {% endif %}     
+        </div>
+        <div id="content">
+            <div id="top">
+                <p id="title">Forum</p>
+                <p id="discussionCount">Liczba Dyskusji: {{countOfDiscussions}}</p>
+                <div id="under-title">
+
+                    <form method="GET", action="/search">
+                        <input name='q' type="text" placeholder="Szukaj dyskusji">
+                        <input id='buttonSearch' type="submit" value="Szukaj"></input>
+                    </form>
+                   
+                    {%if session['user'] %}
+                    <button id="createNewDiscussion"><a href="{{ url_for('create_discussion_get') }}">Stwórz nową dyskusję</a></button>
+                    {%else%}
+                    <button id="createNewDiscussion"><a href="{{ url_for('login') }}">Stwórz nową dyskusję</a></button>
+                    {%endif%}
+                </div>
+            </div>
+            <div id="bottom">
+                {% for i in range(0,countOfDiscussions) %}
+                <div id="discussion" style="display: flex; align-items: center; padding:2em">
+                    <a href="{{ url_for('get_discussion', id=dataBaseDiscussions[i]['_id']) }}"><p id="discussionTitle"> {{dataBaseDiscussions[i]['name']}} </p></a>
+                    <p id="author"> Autor: {{dataBaseDiscussions[i]['author']}}</p>
+                    <p>Data: {{dataBaseDiscussions[i]['date']}}</p>
+                    {% if session['username'] %}
+                        {% if session['role'] == 'admin' or session['username'] == dataBaseDiscussions[i]['author']  %}
+                        <button id="{{dataBaseDiscussions[i]['_id']}}" onClick="removeDiscussion(event)" >Usuń dyskusję</button>
+
+                        {%endif%}
+                    {%endif%}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        
+    </div>
+    
+</body>
+</html>
+
+

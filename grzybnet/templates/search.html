@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrzybNet</title>
+    <link rel="stylesheet" href="../static/styles/home.css">
+</head>
+<body>
+    <div id="content">
+        <div id="nav">
+            <div id="logo">
+                <img src="../static/images/mushroom.png">
+                <p id="brand"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
+            </a></div>   
+            {% if session['user'] %}
+            <form method="PUT", action="/logout">
+            <input type="submit" value="Wyloguj się">
+            </form>
+            {% else %} 
+            <p id="login"><a href="{{ url_for('login') }}">Zaloguj się</a></p>   
+            {% endif %}     
+        </div>
+        <div id="search-result" style="display: flex; justify-content: center; flex-direction: column;">
+            {% if countOfDiscussions == 0 %}
+            <p>Nie znaleziono takich dyskusji</p>
+            {%else%}
+            {% for i in names:%}
+            <div id="discussion">
+                <a href="{{ url_for('get_discussion', id=i['id']) }}"><p id="discussionTitle"> {{i['name']}} </p></a>
+                <p id="author"> Autor: {{i['author']}} {{i['date']}}</p>
+                
+            </div>
+            {%endfor%}
+            {%endif%}
+
+        </div>
+    </div>
+    
+</body>
+</html>

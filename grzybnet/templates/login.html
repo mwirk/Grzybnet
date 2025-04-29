@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrzybNet</title>
+    <link rel="stylesheet" href="static/styles/signin.css">
+    <script src="static/scripts/signIn.js"></script>
+</head>
+<body>
+    <div id="content">
+        <div id="brand">
+        <img id="logo" src="static/images/mushroom.png">
+        <p id="brandName"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
+        </a></div>
+        <p id="title">Logowanie</p>
+        {% if error %}
+            <p style="color: red">{{error}}</p>
+        {% endif %}
+        <form method="POST", action="/login">
+        <input type='text' name="username" placeholder="Nazwa użytkownika" required>
+        <input type='password' name="password" placeholder="Hasło" required>
+        <input type="submit" id="sendButton" value="Zaloguj się">
+        </form>
+        <p id="redirect"><a href="{{ url_for('signin') }}">Nie mam jeszcze konta</a></p>
+    </div>
+</body>
+</html>
