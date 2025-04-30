@@ -1,4 +1,4 @@
-# 🍄 GrzybNet 🍄
+# GrzybNet - Michał Wirkowski 4 grupa
 
 **GrzybNet** is a web application based on a microservices architecture. It allows users to share information about mushrooms, publish posts, and comment on findings – with full support for authentication via OAuth 2.0 (Keycloak).
 
