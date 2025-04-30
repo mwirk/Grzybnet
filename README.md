@@ -3,7 +3,7 @@
 **GrzybNet** is a web application based on a microservices architecture. It allows users to share information about mushrooms, publish posts, and comment on findings – with full support for authentication via OAuth 2.0 (Keycloak).
 
 It's build on such microservices as:
-- Flask api
+- Flask
 - Mongodb
 - Keycloak
 ---
