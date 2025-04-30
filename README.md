@@ -33,13 +33,14 @@ The application uses **OAuth 2.0** for user authentication via **Keycloak**.
 
 ### 🔧 Requirements
 
-- Docker + Docker Compose  
+- Docker Dekstop  
 - Git  
 - Kubernetes
 
 ### 📦 Installation
 
 ```bash
+[turn on docker desktop first]
 git clone https://github.com/mwirk/Grzybnet.git grzybnet
 cd grzybnet
 kubectl apply -f k8s/
