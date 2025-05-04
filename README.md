@@ -1,42 +1,47 @@
-# 🍄 GrzybNet 🍄 
+# GrzybNet - Michał Wirkowski 4 grupa
 
-**GrzybNet** to aplikacja webowa oparta na architekturze mikroserwisowej. Umożliwia użytkownikom dzielenie się informacjami o grzybach, publikowanie postów i komentowanie znalezisk – z pełnym wsparciem autoryzacji za pomocą OAuth 2.0 (Keycloak).
+**GrzybNet** is a web application based on a microservices architecture. It allows users to share information about mushrooms, publish posts, and comment on findings – with full support for authentication via OAuth 2.0 (Keycloak).
 
+It's build on such microservices as:
+- Flask
+- Mongodb
+- Keycloak
 ---
 
-## 🛠️ Technologie
+## 🛠️ Technologies
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-2.3-black?logo=flask)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)
-![Keycloak](https://img.shields.io/badge/Keycloak-OAuth2-7c4dff?logo=keycloak)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![Flask](https://img.shields.io/badge/Flask-2.3-black?logo=flask)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)  
+![Keycloak](https://img.shields.io/badge/Keycloak-OAuth2-7c4dff?logo=keycloak)  
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?logo=kubernetes)
 
 ---
 
-## 🔐 Bezpieczeństwo
+## 🔐 Security
 
-Aplikacja wykorzystuje **OAuth 2.0** do uwierzytelniania użytkowników za pomocą **Keycloak**.
+The application uses **OAuth 2.0** for user authentication via **Keycloak**.
 
-- Rejestracja i logowanie przez Keycloak
-- Tokeny dostępu (JWT) są wymagane do korzystania z API
-- Role i uprawnienia kontrolowane przez Realm Keycloak
+- Registration and login via Keycloak  
+- Access tokens (JWT) are required to use the API  
+- Roles and permissions are managed through the Keycloak Realm
 
 ---
 
-## 🏗️ Uruchomienie projektu lokalnie
+## 🏗️ Running the Project Locally
 
-### 🔧 Wymagania
+### 🔧 Requirements
 
-- Docker + Docker Compose
-- Git
+- Docker Dekstop  
+- Git  
 - Kubernetes
 
-### 📦 Instalacja
+### 📦 Installation
 
 ```bash
-git clone https://github.com/twoj-login/forum-grzybiarzy.git
-cd forum-grzybiarzy
+[turn on docker desktop first]
+git clone https://github.com/mwirk/Grzybnet.git grzybnet
+cd grzybnet
 kubectl apply -f k8s/
-
+```
