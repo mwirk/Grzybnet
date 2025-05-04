@@ -18,7 +18,7 @@
             </a></div> 
  
 
-            {% if session['user'] %}
+            {% if 'user' in session %}
                 {% if session['role'] == 'admin' %}
                     <form method="GET", action="/controlpoint" style="margin-right: 4em;">
                     <input type="submit" value="Endpointy">

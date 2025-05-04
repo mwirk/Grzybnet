@@ -7,7 +7,7 @@
     <link rel="stylesheet" href='static/styles/signin.css'>
 </head>
 <body>
-    {% if session['user'] %}
+    {% if 'user' in session  %}
     <div id="content">
         <div id="brand">
             <img id="logo" src="static/images/mushroom.png">

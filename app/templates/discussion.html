@@ -17,7 +17,7 @@
                 <img src="../static/images/mushroom.png">
                 <p id="brand"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
             </a></div>   
-            {% if session['user'] %}
+            {% if 'user' in session %}
             <form method="PUT" action="/logout">
             <input type="submit" value="Wyloguj się">
             </form>
@@ -28,14 +28,16 @@
         <div id="content">
             <p style="margin-bottom:-2em">Dyskusja użytkownika: {{author}}</p>
             <p id="title">{{title}}</p>
-            {% if session['user']['username'] == author %}
-            <div style="display: flex; gap:0.5em">
-            <input id='newTitle' type="text" id="placeForNewTitle" placeholder="Nowy tytuł" autocomplete="off" required>
-            <input onClick="changeTitle('{{id}}')" type='submit' value="Edytuj tytuł dyskusji">
-            </div>
-            {%endif%}
+            {% if 'user' in session %}
+                {% if session['user']['username'] == author %}
+                <div style="display: flex; gap:0.5em">
+                <input id='newTitle' type="text" id="placeForNewTitle" placeholder="Nowy tytuł" autocomplete="off" required>
+                <input onClick="changeTitle('{{id}}')" type='submit' value="Edytuj tytuł dyskusji">
+                </div>
+                {%endif%}
+            {% endif %}
             <div id="create_comment" style="display: flex; flex-direction: column; justify-items: center;">
-                {% if session['user'] %}
+                {% if 'user' in session %}
                 <form id="createCommentForm" method="POST" action="/discussion/{{id}}">
                     <div style="display: flex; gap:0.5em; align-items: center;">
                         <input id='commentTitle' name='title' type="text" placeholder="Komentarz" autocomplete="off" required>
@@ -77,8 +79,10 @@
                     </div>
                 </form>
                 {%endif%}
-                {% if session['user']['username'] == author %}
-                <button style='margin-top: 1em' onClick="removeDiscussion('{{id}}')">Usuń dyskusję</button>
+                {% if 'user' in session %}
+                    {% if session['user']['username'] == author %}
+                    <button style='margin-top: 1em' onClick="removeDiscussion('{{id}}')">Usuń dyskusję</button>
+                    {%endif%}
                 {%endif%}
             </div>
             <div id="comments" style="width: 100%; border-top: 1px solid black; text-align: center;">

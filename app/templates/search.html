@@ -13,7 +13,7 @@
                 <img src="../static/images/mushroom.png">
                 <p id="brand"><a href="{{ url_for('home') }}"><span style="font-weight: bold">Grzyb</span>Net</p>
             </a></div>   
-            {% if session['user'] %}
+            {% if 'user' in session %}
             <form method="PUT", action="/logout">
             <input type="submit" value="Wyloguj się">
             </form>
