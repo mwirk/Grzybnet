@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: auth
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: auth
@@ -25,6 +25,8 @@ spec:
           envFrom:
             - configMapRef:
                 name: auth-config
+            - secretRef:
+                name: api-secrets
           ports:
             - containerPort: 8080
           volumeMounts:

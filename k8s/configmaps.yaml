@@ -3,19 +3,12 @@ kind: ConfigMap
 metadata:
   name: api-config
 data:
-  FLASK_SECRET: super-secret-key
-
   KEYCLOAK_CLIENT_ID: flask-app
-  KEYCLOAK_CLIENT_SECRET: GfahSLdiOappIaFG9AIp3UuN8Um36FSn
   KEYCLOAK_REALM: MyRealm
   KEYCLOAK_PUBLIC_URL: http://localhost:8080
   KEYCLOAK_INTERNAL_URL: http://auth:8080
-
   MQTT_BROKER_URL: broker.hivemq.com
   MQTT_BROKER_PORT: "1883"
-  KEYCLOAK_ADMIN: admin
-  KEYCLOAK_ADMIN_PASSWORD: admin
-  KC_BOOTSTRAP_ADMIN_PASSWORD: admin
   KC_HOSTNAME: localhost
 
 ---
@@ -24,7 +17,17 @@ kind: ConfigMap
 metadata:
   name: auth-config
 data:
-  KEYCLOAK_ADMIN: admin
-  KEYCLOAK_ADMIN_PASSWORD: admin
-  KC_BOOTSTRAP_ADMIN_PASSWORD: admin
   KC_HOSTNAME: localhost
+
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: api-secrets
+type: Opaque
+data:
+  FLASK_SECRET: c3VwZXItc2VjcmV0LWtleQ==
+  KEYCLOAK_CLIENT_SECRET: R2ZhaFNMZGlPYXBwSWFGRzlBSXAzVXVOOFVtMzZGU24=
+  KEYCLOAK_ADMIN: YWRtaW4=
+  KEYCLOAK_ADMIN_PASSWORD: YWRtaW4=
+  KC_BOOTSTRAP_ADMIN_PASSWORD: YWRtaW4=

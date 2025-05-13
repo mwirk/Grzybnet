@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: api
 spec:
-  replicas: 3
+  replicas: 1
   selector:
     matchLabels:
       app: api
@@ -20,6 +20,8 @@ spec:
           envFrom:
             - configMapRef:
                 name: api-config
+            - secretRef:
+                name: api-secrets
 ---
 apiVersion: v1
 kind: Service
