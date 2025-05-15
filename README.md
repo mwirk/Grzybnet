@@ -40,7 +40,7 @@ The application uses **OAuth 2.0** for user authentication via **Keycloak**.
 ### 📦 Installation
 
 ```bash
-[turn on docker desktop first]
+[Turn on some container runtime first (Docker Desktop for example)]
 git clone https://github.com/mwirk/Grzybnet.git grzybnet
 cd grzybnet
 kubectl apply -f k8s/
