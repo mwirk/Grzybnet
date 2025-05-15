@@ -25,7 +25,6 @@ The application uses **OAuth 2.0** for user authentication via **Keycloak**.
 
 - Registration and login via Keycloak  
 - Access tokens (JWT) are required to use the API  
-- Roles and permissions are managed through the Keycloak Realm
 
 ---
 
